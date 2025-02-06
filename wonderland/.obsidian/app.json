@@ -1,0 +1,13 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "enabledPlugins": [],
+  "attachmentFolderPath": "Attachments",
+  "lineWrap": true,
+  "autoPairBrackets": true,
+  "readableLineLength": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "legacyEditor": false,
+  "livePreview": true
+}
